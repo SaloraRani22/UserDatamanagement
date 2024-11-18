@@ -1,5 +1,5 @@
 {
-  "homepage": "https://SaloraRani22.github.io/UserManagement/",
+  "homepage": "https://SaloraRani22.github.io/UserDatamanagement/",
   "private": true,
   "workspaces": [
     "packages/*",
